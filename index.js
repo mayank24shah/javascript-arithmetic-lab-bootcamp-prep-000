@@ -17,5 +17,5 @@ function inc(n){
 }
 function dec(n){
   var x = n-1
-  return x 
+  return x
 }
